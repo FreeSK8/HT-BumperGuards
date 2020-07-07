@@ -13,4 +13,4 @@ Printed @ 100% infill, model needs to be flipped 180 for larger side to face pla
 
 <img src="docs/bumperguard-orientation.PNG" alt="Connection Example" style="width: 600px;"/>
 
-attached to motor mount using strip of VHB along inner channel. 
+Attached to motor mount using strip of VHB along inner channel. Keep it simple.
