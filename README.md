@@ -2,7 +2,9 @@
 Printable BumperGuards for the motor mounts of Lacroix Boards Hypertrucks.
 
 VEGGY = Skinny version. 2mm thickness. 
+
 BEEFY = Extra rotund version, approx 3-3.5mm thickness. 
+
 
 ## Printing notes:
 Currently test-printing in TPU & Nylon. These are tight-fit with exact width measurements, depending on printer settings you may need to scale by 0.5-1%. 
