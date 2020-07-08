@@ -5,7 +5,9 @@ VEGGY = Skinny version. 2mm thickness.
 
 BEEFY = Extra rotund version, approx 3-3.5mm thickness. 
 
+
 EXTRA-BEEF = 5mm extra thicc. BillGordon Edition.
+https://a360.co/2WgdoUT
 
 
 ## Printing notes:
